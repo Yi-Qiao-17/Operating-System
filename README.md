@@ -1,4 +1,18 @@
 # Operating-System2021
+作業系統概論<br><br>
+授課老師：葉奕成<br><br>
+|課程|<br>
+1.作業系統簡介<br>
+2.作業系統結構<br>
+3.行程簡介<br>
+4.執行緒與並行化<br>
+5.ＣＰＵ排程<br>
+6.行程同步工具<br>
+7.行程同步範例<br>
+8.死結<br>
+9.主記憶體管理<br>
+10.虛擬記憶體<br><br>
+
 |作業|<br>
 OSHw1 : Say Hello to The System~!<br>
 In this assignment, you would learn to write a console program with various system APIs and provide a Makefile configuration to compile, clean & test your project. This project would include 2 program (master.out & mmv.out)) The first one would fork a child proc. to exec 2nd one to copy and manipulate input file...Please refer to the instructions in the class<br>
